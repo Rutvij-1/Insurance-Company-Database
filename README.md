@@ -3,7 +3,7 @@
 ### Authors
 - [Rutvij Menavlikar](https://github.com/Rutvij-1)
 - [Tejas Chaudhari](https://github.com/tejas-1111)
-- [Naman Verma](https://github.com/namanverma632)
+- [Naman Verma](https://github.com/naman632)
 
 ---
 
