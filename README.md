@@ -1,6 +1,6 @@
 # Insurance Company Database
 
-### Team : Panic.c
+### Authors
 - [Rutvij Menavlikar](https://github.com/Rutvij-1)
 - [Tejas Chaudhari](https://github.com/tejas-1111)
 - [Naman Verma]()
