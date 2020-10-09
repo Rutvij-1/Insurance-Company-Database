@@ -9,7 +9,23 @@
 
 This is a simple CLI interface database application for a simplified database for an insurance company implemented in python. This CLI supports functions like adding/deleting/updating an employee, customer, policy, customer dependant, employee dependent, Third Party Administrators (TPA), and also functions to get information about all dependents of a customer, finding employee/customer with name seach using partial match, etc.
 
+### Phase-1
+- It contains the functional Requirements of the project.
+- The description of Entities, Relationships and reuired Functions to be provided mentioned.
+
+### Phase-2
+- It contains the Entity-Relational Diagram of the database.
+- Includes types of relationships, types of attributes, Participation Constraints in relationships.
+
+### Phase-3
+- It contains the stepwise approach of creating the Database Relation Model from the Entitry-Realtional Diagram, and the normalization of the Model upto 3NF form.
+
+### Phase-4
+- It contains `Insurance_Company.sql`, which is the file containing the tables structures with some pre-existing entries.
+- It also contains the python script `Insurance_Company.py` which contains the actual code for the **CLI**(Command Line Interface).
 ---
+
+## Steps for setup:
 
 - Steps to install docker can be found [here](https://docs.docker.com/engine/install/)
 - Steps to install mysql can be found at:
