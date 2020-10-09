@@ -1,9 +1,9 @@
 # Insurance Company Database
 
 ### Team : Panic.c
-Rutvij Menavlikar (2019111032)  
-Tejas Chaudhari (2019111013)  
-Naman Verma (2019101066)  
+- [Rutvij Menavlikar](https://github.com/Rutvij-1)
+- [Tejas Chaudhari](https://github.com/tejas-1111)
+- [Naman Verma]()
 
 ---
 
